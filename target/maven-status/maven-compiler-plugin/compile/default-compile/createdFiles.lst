@@ -1,0 +1,11 @@
+org\example\api\CreateUserPojo.class
+org\example\pageobject\LoginPage.class
+org\example\api\LoginUserPojo.class
+org\example\pageobject\ForgotPassPage.class
+org\example\api\ApiConstants.class
+org\example\pageobject\AccountPage.class
+org\example\pageobject\HeaderPage.class
+org\example\random\RandomGenerator.class
+org\example\pageobject\RegistrationPage.class
+org\example\api\ApiMethods.class
+org\example\pageobject\ConstructorPage.class
